@@ -594,12 +594,12 @@ body,
 
 /* Initial Logo Width */
 .header .logo{
-	width: 3.5rem;
+	width: 18rem;
 }
 
 /* Compacted Header Logo Width */
 .header-compact .logo{
-	width: 3.5rem;
+	width: 18rem;
 }
 
 /* Initial Logo Styling */
